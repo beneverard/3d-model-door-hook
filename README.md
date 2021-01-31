@@ -1,5 +1,3 @@
-Door Hook - Parametric by beneverard on Thingiverse: https://www.thingiverse.com/thing:4744805
-
 # 3D model - Door hook
 🖨 3D model of a door hook, includes parametric Fusion 360 file to modify for other types and sizes.
 
